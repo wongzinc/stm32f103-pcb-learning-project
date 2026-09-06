@@ -10,7 +10,7 @@ A custom 2-layer STM32F103C8T6 development board designed in **KiCad 10** as a p
 |---|---|
 | ![PCB 3D view](docs/pcb-3d-view.png) | ![PCB layout](docs/pcb-layout.png) |
 
-![Schematic](docs/pcb-schematic)
+![Schematic](docs/pcb-schematic.png)
 
 ## Project Goals
 
